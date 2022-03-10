@@ -7,6 +7,6 @@ public class Demo {
 	@Test
 	public void demo() {
 	
-		System.out.println("welcome to github");
+		System.out.println("User1 Commit");
 	}
 }
